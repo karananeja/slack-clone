@@ -1,0 +1,20 @@
+:root {
+  --slack-color: #3f0f40;
+  --slack-bg-color: #421f44;
+  --gray-color: gray;
+  --white-color: white;
+  --border-color: #49274b;
+  --green-color: #0a8d48;
+  --slack-bg-hover-color: #340e36;
+  --lightGray-color: lightgray;
+  --halfGray-color: #f8f8f8;
+}
+
+body {
+  overflow: hidden;
+}
+
+.app__body {
+  display: flex;
+  height: 100vh;
+}
